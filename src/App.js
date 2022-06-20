@@ -1,4 +1,4 @@
-import { NetworkVisualizer } from "./NetworkVisualizer";
+import NetworkVisualizer from "./NetworkVisualizer";
 import nodes from "./nodes.json";
 
 function App() {
